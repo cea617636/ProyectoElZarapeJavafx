@@ -1,0 +1,11 @@
+.menu-bar{
+    -fx-background-color: chocolate;
+}
+
+.menu-bar-item{
+    -fx-background-color: chocolate;
+}
+
+.menu-bar-item:hover{
+    -fx-background-color: coral;
+}
